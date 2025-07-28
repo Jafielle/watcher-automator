@@ -1,7 +1,4 @@
 # watcher-automator
-Personal task and reminder automator. Reads tasks from Google Sheets and syncs them with Google Calendar. Ongoing personal automation project for reminders and study management.
-
-# Watcher Automator
 
 **Personal Task & Reminder Automator**  
 Reads tasks from Google Sheets and automatically syncs them with Google Calendar.
